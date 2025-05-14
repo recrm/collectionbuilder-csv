@@ -3,7 +3,7 @@
 source 'https://rubygems.org'
 
 # needed for Jekyll
-gem 'jekyll'
+gem 'jekyll', '4.4.1'
 gem 'webrick'
 gem 'logger'
 gem 'base64'
